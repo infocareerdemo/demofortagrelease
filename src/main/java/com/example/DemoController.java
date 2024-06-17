@@ -2,11 +2,15 @@ package com.example;
 
 public class DemoController {
 
-	public String hello() {
-		return "hello";
+	public String release1() {
+		return "release1";
 	}
 	
-	public String hello1() {
-		return "hello";
+	public String release2() {
+		return "release2";
+	}
+	
+	public String release3() {
+		return "release 3";
 	}
 }
